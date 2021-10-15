@@ -1,0 +1,32 @@
+.click{
+    color: aqua;
+    background-color: black;
+}
+
+/* navabr */
+.navbar{
+    background-color: #333;
+  overflow: hidden;
+}
+/* Style the links inside the navigation bar */
+.navbar a {
+    float: left;
+    text-emphasis-position: center;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 15px 20px;
+    text-decoration: none;
+    font-size: 20px;
+  }
+/* a pagina que esta indicada*/
+
+.ativa{
+    background-color: green;
+    color: white;
+}
+
+/* para textos */
+.textcolor{
+  color: aquamarine;
+  background-color: black;
+}
